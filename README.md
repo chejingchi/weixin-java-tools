@@ -1,5 +1,5 @@
 weixin-java-tools
-
+test
 [![Build Status](https://travis-ci.org/chanjarster/weixin-java-tools.svg?branch=develop)](https://travis-ci.org/chanjarster/weixin-java-tools)
 ![Maven Central](https://img.shields.io/maven-central/v/me.chanjar/weixin-java-parent.svg)
 
